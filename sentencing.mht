@@ -1,0 +1,642 @@
+MIME-Version: 1.0
+X-Document-Type: Worksheet
+Content-Location: file:///C:/D1133227/sentencing.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="windows-1252"
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dwindows-125=
+2">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 15">
+<link rel=3DFile-List href=3D"sentencing_files/filelist.xml">
+<style id=3D"sentencing_171_Styles">
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+.xl15171
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl72171
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border:.5pt solid gray;
+	background:#A6A6A6;
+	mso-pattern:#A6A6A6 none;
+	white-space:normal;}
+.xl73171
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\#\,\#\#0";
+	text-align:center;
+	vertical-align:middle;
+	border:.5pt solid gray;
+	background:white;
+	mso-pattern:white none;
+	white-space:normal;}
+.xl74171
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"0\.0%\;0\.0%";
+	text-align:center;
+	vertical-align:middle;
+	border:.5pt solid gray;
+	background:white;
+	mso-pattern:white none;
+	white-space:normal;}
+.xl75171
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:navy;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"0\.0%\;0\.0%";
+	text-align:center;
+	vertical-align:middle;
+	border:.5pt solid gray;
+	background:white;
+	mso-pattern:white none;
+	white-space:normal;}
+.xl76171
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\#\,\#\#0";
+	text-align:center;
+	vertical-align:middle;
+	border:.5pt solid gray;
+	background:#F2F2F2;
+	mso-pattern:#F2F2F2 none;
+	white-space:normal;}
+.xl77171
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"0\.0%\;0\.0%";
+	text-align:center;
+	vertical-align:middle;
+	border:.5pt solid gray;
+	background:#F2F2F2;
+	mso-pattern:#F2F2F2 none;
+	white-space:normal;}
+.xl78171
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:navy;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"0\.0%\;0\.0%";
+	text-align:center;
+	vertical-align:middle;
+	border:.5pt solid gray;
+	background:#F2F2F2;
+	mso-pattern:#F2F2F2 none;
+	white-space:normal;}
+.xl79171
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:maroon;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"0\.0%\;0\.0%";
+	text-align:center;
+	vertical-align:middle;
+	border:.5pt solid gray;
+	background:white;
+	mso-pattern:white none;
+	white-space:normal;}
+.xl80171
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:maroon;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"0\.0%\;0\.0%";
+	text-align:center;
+	vertical-align:middle;
+	border:.5pt solid gray;
+	background:#F2F2F2;
+	mso-pattern:#F2F2F2 none;
+	white-space:normal;}
+.xl81171
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"\#\,\#\#0";
+	text-align:center;
+	vertical-align:middle;
+	border:.5pt solid gray;
+	background:#A6A6A6;
+	mso-pattern:#A6A6A6 none;
+	white-space:normal;}
+.xl82171
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"0\.0%\;0\.0%";
+	text-align:center;
+	vertical-align:middle;
+	border:.5pt solid gray;
+	background:#A6A6A6;
+	mso-pattern:#A6A6A6 none;
+	white-space:normal;}
+.xl83171
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border:.5pt solid gray;
+	background:#394A58;
+	mso-pattern:#394A58 none;
+	white-space:normal;}
+.xl84171
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:right;
+	vertical-align:middle;
+	border:.5pt solid gray;
+	background:#A6A6A6;
+	mso-pattern:#A6A6A6 none;
+	white-space:normal;}
+.xl85171
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"0\.0%\;0\.0%";
+	text-align:center;
+	vertical-align:middle;
+	border:.5pt solid gray;
+	background:#A6A6A6;
+	mso-pattern:#A6A6A6 none;
+	white-space:normal;}
+-->
+</style>
+</head>
+
+<body>
+<!--[if !excel]>&nbsp;&nbsp;<![endif]-->
+<!--The following information was generated by Microsoft Excel's Publish as=
+ Web
+Page wizard.-->
+<!--If the same item is republished from Excel, all information between the=
+ DIV
+tags will be replaced.-->
+<!----------------------------->
+<!--START OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD -->
+<!----------------------------->
+
+<div id=3D"sentencing_171" align=3Dcenter x:publishsource=3D"Excel">
+
+<table border=3D0 cellpadding=3D0 cellspacing=3D0 width=3D551 style=3D'bord=
+er-collapse:
+ collapse;table-layout:fixed;width:413pt'>
+ <col width=3D231 style=3D'mso-width-source:userset;mso-width-alt:7867;widt=
+h:173pt'>
+ <col width=3D64 span=3D5 style=3D'mso-width-source:userset;mso-width-alt:2=
+184;
+ width:48pt'>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td colspan=3D6 height=3D19 class=3Dxl83171 width=3D551 style=3D'height:1=
+4.25pt;
+  width:413pt'>Convictions by Offence and Gender</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td rowspan=3D3 height=3D57 class=3Dxl72171 width=3D231 style=3D'height:4=
+2.75pt;
+  border-top:none;width:173pt'>Offence</td>
+  <td colspan=3D5 class=3Dxl72171 width=3D320 style=3D'border-left:none;wid=
+th:240pt'>Average
+  Annual Conviction Rate (Per 10,000 M/F)</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td colspan=3D2 height=3D19 class=3Dxl72171 width=3D128 style=3D'height:1=
+4.25pt;
+  border-left:none;width:96pt'>Count</td>
+  <td colspan=3D3 class=3Dxl72171 width=3D192 style=3D'border-left:none;wid=
+th:144pt'>%
+  of Total</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl72171 width=3D64 style=3D'height:14.25pt;border=
+-top:none;
+  border-left:none;width:48pt'>M</td>
+  <td class=3Dxl72171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>F</td>
+  <td class=3Dxl72171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>M</td>
+  <td class=3Dxl72171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>F</td>
+  <td class=3Dxl72171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>Difference</td>
+ </tr>
+ <tr height=3D35 style=3D'height:26.25pt'>
+  <td height=3D35 class=3Dxl84171 width=3D231 style=3D'height:26.25pt;borde=
+r-top:none;
+  width:173pt'>Abduction, Harassment and Other Offences Against the Person<=
+/td>
+  <td class=3Dxl73171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>3</td>
+  <td class=3Dxl73171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>0</td>
+  <td class=3Dxl74171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>1.2%</td>
+  <td class=3Dxl74171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>0.5%</td>
+  <td class=3Dxl75171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>0.7%</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl84171 width=3D231 style=3D'height:14.25pt;borde=
+r-top:none;
+  width:173pt'>Acts Intended to Cause Injury</td>
+  <td class=3Dxl76171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>30</td>
+  <td class=3Dxl76171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>5</td>
+  <td class=3Dxl77171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>10.2%</td>
+  <td class=3Dxl77171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>6.6%</td>
+  <td class=3Dxl78171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>3.7%</td>
+ </tr>
+ <tr height=3D35 style=3D'height:26.25pt'>
+  <td height=3D35 class=3Dxl84171 width=3D231 style=3D'height:26.25pt;borde=
+r-top:none;
+  width:173pt'>Dangerous or Negligent Acts Endangering Persons</td>
+  <td class=3Dxl73171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>29</td>
+  <td class=3Dxl73171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>7</td>
+  <td class=3Dxl74171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>9.5%</td>
+  <td class=3Dxl74171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>9.6%</td>
+  <td class=3Dxl79171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>0.1%</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl84171 width=3D231 style=3D'height:14.25pt;borde=
+r-top:none;
+  width:173pt'>Fraud, Deception and Related Offences</td>
+  <td class=3Dxl76171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>7</td>
+  <td class=3Dxl76171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>5</td>
+  <td class=3Dxl77171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>2.3%</td>
+  <td class=3Dxl77171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>7.3%</td>
+  <td class=3Dxl80171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>5.0%</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl84171 width=3D231 style=3D'height:14.25pt;borde=
+r-top:none;
+  width:173pt'>Homicide and Related Offences</td>
+  <td class=3Dxl73171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>0</td>
+  <td class=3Dxl73171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>0</td>
+  <td class=3Dxl74171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>0.2%</td>
+  <td class=3Dxl74171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>0.1%</td>
+  <td class=3Dxl75171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>0.0%</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl84171 width=3D231 style=3D'height:14.25pt;borde=
+r-top:none;
+  width:173pt'>Illicit Drug Offences</td>
+  <td class=3Dxl76171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>17</td>
+  <td class=3Dxl76171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>4</td>
+  <td class=3Dxl77171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>5.5%</td>
+  <td class=3Dxl77171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>5.1%</td>
+  <td class=3Dxl78171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>0.4%</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl84171 width=3D231 style=3D'height:14.25pt;borde=
+r-top:none;
+  width:173pt'>Miscellaneous Offences</td>
+  <td class=3Dxl73171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>5</td>
+  <td class=3Dxl73171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>1</td>
+  <td class=3Dxl74171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>1.6%</td>
+  <td class=3Dxl74171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>1.5%</td>
+  <td class=3Dxl75171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>0.2%</td>
+ </tr>
+ <tr height=3D53 style=3D'height:39.4pt'>
+  <td height=3D53 class=3Dxl84171 width=3D231 style=3D'height:39.4pt;border=
+-top:none;
+  width:173pt'>Offences against Justice Procedures, Government Security and
+  Government Operations</td>
+  <td class=3Dxl76171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>31</td>
+  <td class=3Dxl76171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>8</td>
+  <td class=3Dxl77171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>10.6%</td>
+  <td class=3Dxl77171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>11.5%</td>
+  <td class=3Dxl80171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>0.9%</td>
+ </tr>
+ <tr height=3D35 style=3D'height:26.25pt'>
+  <td height=3D35 class=3Dxl84171 width=3D231 style=3D'height:26.25pt;borde=
+r-top:none;
+  width:173pt'>Prohibited and Regulated Weapons and Explosives Offences</td>
+  <td class=3Dxl73171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>4</td>
+  <td class=3Dxl73171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>0</td>
+  <td class=3Dxl74171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>1.4%</td>
+  <td class=3Dxl74171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>0.5%</td>
+  <td class=3Dxl75171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>0.9%</td>
+ </tr>
+ <tr height=3D35 style=3D'height:26.25pt'>
+  <td height=3D35 class=3Dxl84171 width=3D231 style=3D'height:26.25pt;borde=
+r-top:none;
+  width:173pt'>Property Damage and Environmental Pollution</td>
+  <td class=3Dxl76171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>10</td>
+  <td class=3Dxl76171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>1</td>
+  <td class=3Dxl77171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>3.4%</td>
+  <td class=3Dxl77171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>2.1%</td>
+  <td class=3Dxl78171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>1.3%</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl84171 width=3D231 style=3D'height:14.25pt;borde=
+r-top:none;
+  width:173pt'>Public Order Offences</td>
+  <td class=3Dxl73171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>18</td>
+  <td class=3Dxl73171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>3</td>
+  <td class=3Dxl74171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>6.0%</td>
+  <td class=3Dxl74171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>4.0%</td>
+  <td class=3Dxl75171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>2.0%</td>
+ </tr>
+ <tr height=3D35 style=3D'height:26.25pt'>
+  <td height=3D35 class=3Dxl84171 width=3D231 style=3D'height:26.25pt;borde=
+r-top:none;
+  width:173pt'>Robbery, Extortion and Related Offences</td>
+  <td class=3Dxl76171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>2</td>
+  <td class=3Dxl76171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>0</td>
+  <td class=3Dxl77171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>0.7%</td>
+  <td class=3Dxl77171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>0.3%</td>
+  <td class=3Dxl78171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>0.4%</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl84171 width=3D231 style=3D'height:14.25pt;borde=
+r-top:none;
+  width:173pt'>Sexual Assault and Related Offences</td>
+  <td class=3Dxl73171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>3</td>
+  <td class=3Dxl73171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>0</td>
+  <td class=3Dxl74171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>1.0%</td>
+  <td class=3Dxl74171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>0.0%</td>
+  <td class=3Dxl75171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>1.0%</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl84171 width=3D231 style=3D'height:14.25pt;borde=
+r-top:none;
+  width:173pt'>Theft and Related Offences</td>
+  <td class=3Dxl76171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>19</td>
+  <td class=3Dxl76171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>8</td>
+  <td class=3Dxl77171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>6.5%</td>
+  <td class=3Dxl77171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>11.6%</td>
+  <td class=3Dxl80171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>5.1%</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl84171 width=3D231 style=3D'height:14.25pt;borde=
+r-top:none;
+  width:173pt'>Traffic and Vehicle Regulatory Offences</td>
+  <td class=3Dxl73171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>107</td>
+  <td class=3Dxl73171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>27</td>
+  <td class=3Dxl74171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>36.3%</td>
+  <td class=3Dxl74171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>38.0%</td>
+  <td class=3Dxl79171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>1.7%</td>
+ </tr>
+ <tr height=3D35 style=3D'height:26.25pt'>
+  <td height=3D35 class=3Dxl84171 width=3D231 style=3D'height:26.25pt;borde=
+r-top:none;
+  width:173pt'>Unlawful Entry with Intent/Burglary, Break and Enter</td>
+  <td class=3Dxl76171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>11</td>
+  <td class=3Dxl76171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>1</td>
+  <td class=3Dxl77171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>3.6%</td>
+  <td class=3Dxl77171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>1.3%</td>
+  <td class=3Dxl78171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>2.3%</td>
+ </tr>
+ <tr height=3D19 style=3D'height:14.25pt'>
+  <td height=3D19 class=3Dxl84171 width=3D231 style=3D'height:14.25pt;borde=
+r-top:none;
+  width:173pt'>Total</td>
+  <td class=3Dxl81171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>296</td>
+  <td class=3Dxl81171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>72</td>
+  <td class=3Dxl82171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>100.0%</td>
+  <td class=3Dxl82171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>100.0%</td>
+  <td class=3Dxl85171 width=3D64 style=3D'border-top:none;border-left:none;
+  width:48pt'>0.0%</td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=3D0 style=3D'display:none'>
+  <td width=3D231 style=3D'width:173pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</div>
+
+
+<!----------------------------->
+<!--END OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD-->
+<!----------------------------->
+</body>
+
+</html>
